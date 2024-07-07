@@ -71,7 +71,7 @@
 			- **Periodic list with filter:** You can periodically query the API with a filter based on the resource version to get only updated resources. This is simpler but less real-time
 
 ### etcd:
-- No etcd, no Kubernetes brain. It stores cluster data and coordinates actions, keeping everything in sync.
+- No etcd, no Kubernetes brain. It stores cluster data and coordinates actions, keeping everything in sync.It is a No-Sql database
 	- **etcd Architecture:** 
     
     ![Pasted image 20240418195027](https://github.com/rohit-rajput1/Kubernetes-learning/assets/76991475/162f2a66-e6c5-4ef5-b923-25abc5a77ecc)
