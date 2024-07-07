@@ -108,7 +108,7 @@
 			- **Wait-on-Permit (Optional):** This phase involves waiting for an external approval (permit) before proceeding. This could be useful for integrating with security systems or external authorization mechanisms.
     
 ### kube-controller-manager:
-- The kube-controller-manager is a vital component in Kubernetes responsible for running multiple controllers in the background. These controllers continuously monitor the state of the cluster and take actions to ensure the desired state of your applications is maintained.It sees that define state and actual state of resource are same.
+- The kube-controller-manager is a vital component in Kubernetes responsible for running multiple controllers in the background. These controllers continuously monitor the state of the cluster and take actions to ensure the desired state of your applications is maintained.It sees that define state and actual state of resource are same.It sees everything is working fine in cluster
 	- **kube-controller-manager architecture:** 
 
     ![Pasted image 20240419160500](https://github.com/rohit-rajput1/Kubernetes-learning/assets/76991475/c11035df-d131-4898-966c-ceedc03906a1)
